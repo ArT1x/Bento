@@ -7,7 +7,7 @@ var name = 'emilio';
 
 // Here you can change your greetings
 var gree1 = 'Geh schlafen :) ';
-var gree2 = 'Guten Morgen ;
+var gree2 = 'Guten Morgen ';
 var gree3 = 'Guten Mittag ';
 var gree4 = 'Guten Abend ';
 var gree5 = 'Guten Abend ';
